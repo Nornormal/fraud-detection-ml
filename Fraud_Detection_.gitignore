@@ -1,0 +1,35 @@
+# Dataset files (may be large or sensitive)
+*.csv
+*.xlsx
+*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Saved models & outputs
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Logs
+*.log
